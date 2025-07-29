@@ -20,7 +20,7 @@
 - Understand Quran deeply
 - Start my online career
 
-📫 You can reach me at: [your-struggle119345@gmail.com]
+📫 You can reach me at: struggle119345@gmail.com
 
 ---
 
