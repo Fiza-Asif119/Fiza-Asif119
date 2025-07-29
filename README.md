@@ -1,3 +1,32 @@
+# 👋 Hi there, I'm Fiza Asif
+
+🌟 I'm an aspiring web developer from Pakistan.
+
+🎓 Currently learning:
+- HTML
+- CSS
+- Bootstrap
+- JavaScript (Coming soon)
+
+🛠 Skills in progress:
+- Responsive Web Design
+- Git & GitHub
+- Creative Layout Design
+
+🎯 2025 Goals:
+- Become fluent in English
+- Learn JavaScript & MS Office
+- Build professional portfolio
+- Understand Quran deeply
+- Start my online career
+
+📫 You can reach me at: [your-struggle119345@gmail.com]
+
+---
+
+📝 **My Learning Projects Coming Soon...**
+
+Stay tuned for updates!
 ## Hi there 👋
 
 <!--
